@@ -22,13 +22,13 @@ html {
 
     border: 2px solid #ffffff;
     border-radius: 0px;
-    padding: 4px;
+    padding: 7px;
 }
 
 .navbar-light .navbar-toggler-icon {
     background-image: none;
     color: #fff;
-    font-size: 22px;
+    font-size: 25px;
     padding: 4px;
 }
 
@@ -134,6 +134,7 @@ html {
     font-weight: 700;
     padding: 45px 0px;
     font-family: 'Roboto', sans-serif;
+    color: #494949;
 
 }
 .common-service {
@@ -209,6 +210,18 @@ html {
     border: 1px solid #b9bbbf;
 }
 /* enducation part end */
+/* portfollio part start */
+.portfollio{
+    padding: 120px 0px;
+}
+.portfollio-img{
+    width: 105%;
+}
+.style-img{
+    width: 102%;
+}
+/* portfollio part end */
+ 
 
 
 /* font-family: 'Raleway', sans-serif;

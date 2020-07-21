@@ -98,6 +98,17 @@
         font-size: 12px;
     }
     /* education part end */
+    /* portfollio part start */
+    .portfollio {
+        padding: 40px 0px;
+    }
+    .portfollio-img {
+        width: 110%;
+    }
+    .style-img {
+        width: 105%;
+    }
+    /* portfollio part end */
 }
 
 
@@ -210,6 +221,17 @@
             font-size: 12px;
         }
         /* education part end */
+        /* portfollio part start */
+        .portfollio {
+            padding: 50px 0px;
+        }
+        .portfollio-img {
+            width: 114%;
+        }
+        .style-img{
+            width: 106%;
+        }
+        /* portfollio part end */
 }
 
  /* Medium devices (tablets, 768px and up) */
@@ -277,6 +299,14 @@
         font-size: 12px;
     }
     /* education part end */
+    /* portfollio part start */
+    .portfollio-img {
+        width: 111%;
+    }
+    .style-img{
+        width: 105%;
+    }
+    /* portfollio part end */
  }
 
  /* Large devices (desktops, 992px and up) */
