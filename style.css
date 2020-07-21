@@ -221,6 +221,42 @@ html {
     width: 102%;
 }
 /* portfollio part end */
+/* slider part start */ 
+.slider{
+    padding: 140px 0px ;
+    background-color: #64cbc0;
+}
+.slider-content i {
+	color: #317688;
+	font-size: 55px;
+}
+.slider-content p {
+	color: #142926;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	padding: 50px 0px;
+	line-height: 30px;
+}
+.sing img{
+    width: 40%;
+}
+.sing h5{
+	color: #1e3d39;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	padding-top: 40px;
+}
+.sing p {
+	color: #31635d;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.carousel-indicators li{
+    background-color: transparent;
+}
+
+/* slider part end */
  
 
 

@@ -109,6 +109,29 @@
         width: 105%;
     }
     /* portfollio part end */
+    /* slider part start */
+    .slider {
+        padding: 35px 0px;
+    }
+    .slider-content i {
+        font-size: 35px;
+    }
+    .slider-content p {
+        font-size: 12px;
+        padding: 10px 0px;
+        line-height: 21px;
+        margin-bottom: 0px;
+    }
+    .sing h5 {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .sing p {
+       
+        font-size: 10px;
+         
+    }
+    /* slider part end */
 }
 
 
@@ -232,6 +255,32 @@
             width: 106%;
         }
         /* portfollio part end */
+        /* slider part start */
+        .slider {
+            padding: 70px 0px;
+        }
+        .slider-content i {
+            font-size: 40px;
+        }
+        .slider-content p {
+            font-size: 14px;
+            padding: 15px 0px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .sing img {
+            width: 60%;
+        }
+        .sing h5 {
+            font-size: 16px;
+            padding-top: 15px;
+        }
+        .sing p {
+           
+            font-size: 12px;
+           
+        }
+        /* slider part end */
 }
 
  /* Medium devices (tablets, 768px and up) */
@@ -307,6 +356,24 @@
         width: 105%;
     }
     /* portfollio part end */
+    /* slider part strat */
+    .slider {
+        padding: 100px 0px;
+    }
+    .slider-content i {
+        font-size: 48px;
+    }
+    .slider-content p {
+        font-size: 14px;
+        padding: 30px 0px;
+        margin-bottom: 0px;
+        line-height: 25px;
+
+    }
+    .sing h5 {
+        padding-top: 20px;
+    }
+    /* slider part end */
  }
 
  /* Large devices (desktops, 992px and up) */
