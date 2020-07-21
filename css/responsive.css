@@ -1,0 +1,295 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+      /* header part start */
+      .header-part {
+        padding: 52px 0px;
+    }
+    .manu-content {
+        padding: 100px 0px;       
+    }
+    .manu-content::before {      
+        width: 53%;    
+        left: 23%;
+    }
+    .manu-content::after {      
+        width: 53%;    
+        left: 23%;
+    }
+    .manu-content h1 {     
+        font-size: 32px;         
+    }
+    .manu-content p {
+        font-size: 14px;
+        padding-top: 40px;
+    }
+    /* header part end */
+    /* About part start */
+    .about-part {
+         padding: 50px 0px;
+    }
+    .about-img img {
+         width: 350px;
+     }
+    .about-content h3 {
+        font-size: 14px;
+        padding: 20px 0px;
+        text-align: center;
+    }
+    .about-content p {
+        font-size: 12px;
+        padding: 0px 72px;
+        line-height: 26px;
+        padding-bottom: 0px !important;
+        text-align: center;
+    }
+    .coustom-btn {
+        font-size: 12px;
+        margin-left: 43%;
+        padding: 10px 14px;
+           
+    }
+    /* About part end */
+     /* service part start */
+     .Services {
+        padding: 50px;
+    }
+    .service-content h2 {
+        font-size: 28px;
+    }
+    .service-content h3 {
+        font-size: 12px;
+        padding: 20px 0px;
+    }
+
+    .common-service {
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+    .sevice-icon {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+    .icon-content h3 {
+        font-size: 14px;
+    } 
+    /* service part end */
+       /* education part start */
+    .education {
+        padding: 50px 0px;
+    }
+    .education-common {
+        padding: 50px 30px;
+        margin-bottom: 30px;
+    }
+    .education-common h2 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    .education-common h3 {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .education-common h5 {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding: 8px 0px;
+    }
+    .education-common p {
+        font-size: 12px;
+    }
+    /* education part end */
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header part start */
+    .header-part {
+        padding: 52px 0px;
+    }
+    .manu-content {
+        padding: 100px 0px;       
+    }
+    .manu-content::before {      
+        width: 53%;    
+        left: 23%;
+    }
+    .manu-content::after {      
+        width: 53%;    
+        left: 23%;
+    }
+    .manu-content h1 {     
+        font-size: 32px;         
+    }
+    .manu-content p {
+        font-size: 14px;
+        padding-top: 40px;
+    }
+    /* header part end */
+    /* About part start */
+    .about-part {
+        padding: 50px 0px;
+    }
+    .about-img img {
+        width: 350px;
+    }
+    .about-content h3 {
+        font-size: 14px;
+        padding: 20px 0px;
+        text-align: center;
+    }
+    .about-content p {
+        font-size: 12px;
+        padding: 0px 50px;
+        line-height: 26px;
+        padding-bottom: 0px !important;
+        text-align: center;
+    }
+    .coustom-btn {
+        font-size: 12px;
+        margin-left: 43%;
+        padding: 10px 14px;
+       
+    }
+    /* About part end */
+    /* service part start */
+    .Services {
+        padding: 80px;
+    }
+    .service-content h2 {
+        font-size: 30px;    
+    }
+    .service-content h3 {
+        font-size: 12px;
+        padding: 25px 0px;
+    }
+    .common-service {
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+    .sevice-icon {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+    .icon-content h3 {
+        font-size: 14px;
+    }
+    /* service part end */
+        /* service part start */
+        .common-service {
+            padding: 9px;
+        }
+        .sevice-icon {
+            font-size: 30px;
+            padding-bottom: 20px;
+        }
+        .icon-content h3 {
+            font-size: 12px;
+        }
+        /* service part end */
+        /* education part start */
+        .education-common {
+            background-color: #59657e;
+            padding: 50px 30px;
+            color: #fff;
+            margin-bottom: 30px;
+        }
+        .education-common h2 {
+            font-size: 24px;
+            padding-bottom: 35px;
+        }
+        .education-common h3 {
+            font-size: 16px;
+        }
+        .education-common h5 {
+            font-size: 14px;
+            margin-bottom: 0px;
+            padding: 8px 0px;
+        }
+        .education-common p {
+            font-size: 12px;
+        }
+        /* education part end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header part start */
+    .manu-content {
+        padding: 118px 0px;
+    }
+    .manu-content::after {       
+        width: 47%;    
+        left: 26%;
+    }
+    .manu-content::before {        
+        width: 47%;      
+        left: 26%;     
+    }
+    .manu-content h1 {    
+        font-size: 40px;   
+    }
+    .manu-content p {       
+        font-size: 16px;   
+        padding-top: 40px;     
+    }
+    /* header part end */
+    /* About part start */
+    .about-content h3 {
+        font-size: 15px;
+        padding: 25px 42px;
+    }
+    .about-content p {   
+        font-size: 14px; 
+        line-height: 28px;
+        padding-bottom: 0px !important;
+    }
+    .coustom-btn {
+        padding: 12px 55px;
+    }
+    /* About part end */
+    /* service part start */
+    .common-service {
+        padding: 9px;
+    }
+    .sevice-icon {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .icon-content h3 {
+        font-size: 12px;
+    }
+    /* service part end */
+    /* education part start */
+    .education-common h2 {
+        font-size: 22px;
+        padding-bottom: 28px;
+    }
+    .education-common h3 {
+        font-size: 16px;
+    }
+    .education-common h5 {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding: 8px 0px;
+    }
+    .education-common p {
+        font-size: 12px;
+    }
+    /* education part end */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* Service part strat */
+    .common-service {
+        padding: 22px;
+        color: #ffffff;
+    }
+      /* Service part end*/
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
