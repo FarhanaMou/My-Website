@@ -309,6 +309,28 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
  /* contect part end */
+ /* footer-part start */
+ .footer-part{
+     padding: 60px 0px;
+     background-color: #222222;
+ }
+ .sociel-icon ul li {
+	color: #aaaaaa;
+	font-size: 22px;
+}
+ .sociel-icon ul li i {
+	color: #aaaaaa;
+	font-size: 25px;
+}
+.sociel-icon ul li i:hover{
+    color: #ff2b4a;
+}
+.designer h3{
+	color: #aaaaaa;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+ /* footer-part end */
 
 
 /* font-family: 'Raleway', sans-serif;
